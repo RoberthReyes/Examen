@@ -9,3 +9,7 @@ def avgcity()
 def avgyear()
 
 #Ahi va el codigo de la segunda funcion
+
+def avgbiweek()
+
+#Ahi va el codigo de la tercera funcion
